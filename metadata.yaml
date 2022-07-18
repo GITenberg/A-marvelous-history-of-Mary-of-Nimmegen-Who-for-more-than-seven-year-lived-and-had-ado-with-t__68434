@@ -5,6 +5,9 @@ contributor:
     agent_name: Barnouw, Adriaan J.
     gutenberg_agent_id: '54778'
     url: http://www.gutenberg.org/2009/agents/54778
+covers:
+- cover_type: archival
+  image_path: 68434-h/images/cover.jpg
 creator:
   author:
     agent_name: Ayres, Harry Morgan
@@ -13,6 +16,8 @@ creator:
     gutenberg_agent_id: '39366'
     url: http://www.gutenberg.org/2009/agents/39366
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68434#A-marvelous-history-of-Mary-of-Nimmegen-Who-for-more-than-seven-year-lived-and-had-ado-with-t_
 gutenberg_issued: '2022-06-30'
 identifiers:
   gutenberg: '68434'
